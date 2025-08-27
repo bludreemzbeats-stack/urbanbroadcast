@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <div style={{ textAlign: 'center', padding: '50px' }}>
+      <h1>Shadows Over Sugar Hill</h1>
+      <p>Episode 1 coming soon...</p>
+    </div>
+  );
+}
